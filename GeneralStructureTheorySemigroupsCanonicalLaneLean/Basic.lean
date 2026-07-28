@@ -1,0 +1,2 @@
+import GeneralStructureTheorySemigroupsCanonicalLaneLean.GateLemmas
+import GeneralStructureTheorySemigroupsCanonicalLaneLean.FinalTheorem
